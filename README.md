@@ -1,6 +1,6 @@
 # Getting started
 
-Fast, secure, and easy integrations
+This repository contains the open source Go client for TransmitSMS REST API. Documentation can be found at: https://developer.transmitsms.com/
 
 ## How to Build
 
@@ -1608,7 +1608,7 @@ result,_ = lists.GetContact(listId, msisdn, format)
 
 ### <a name="add_contacts_bulk"></a>![Method: ](https://apidocs.io/img/method.png ".lists_pkg.AddContactsBulk") AddContactsBulk
 
-> Upload a list of contacts to Burst SMS
+> Upload a list of contacts
 
 
 ```go
